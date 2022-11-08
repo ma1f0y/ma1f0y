@@ -15,10 +15,3 @@ Reach me on :
 </a><br>
 
 ---
-
-[![Aneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma1f0y&show_icons=true&theme=radical&hide_border=true&bg_color=#202532)]()
-
-[![Aneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ma1f0y&hide=java,html,tex,css&show_icons=true&theme=radical&hide_border=true&card_width=500)]()
-
----
-![](https://visitor-badge.glitch.me/badge?page_id=ma1f0y.ma1f0y)
