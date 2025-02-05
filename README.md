@@ -1,9 +1,9 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 - I'm Aneesh Nadh R :relaxed:
-- Undergrad student :mortar_board:
+- Application Security Engineer @ CRED
 - Interested in web application security :spider_web:
-- :triangular_flag_on_post: Currently playing CTFs with [@teambi0s](https://twitter.com/teambi0s)
+- :triangular_flag_on_post: playing CTFs with [@teambi0s](https://twitter.com/teambi0s)
 
 Reach me on :
 
